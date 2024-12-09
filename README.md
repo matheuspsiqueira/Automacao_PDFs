@@ -2,7 +2,7 @@
 
 ## Descrição:
 
-Este é um script bem simples que desenvolvi em uma situação muito específica que me ocorreu no trabalho, se quiser saber sobre o que me levou a isso, confira o post que fiz no [LinkedIn](https://matheuspsiqueira.github.io/Portfolio/).
+Este é um script bem simples que desenvolvi em uma situação muito específica que me ocorreu no trabalho, se quiser saber sobre o que me levou a isso, confira o post que fiz no [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7271957876867280896/).
 
 ## Como funciona:
 
