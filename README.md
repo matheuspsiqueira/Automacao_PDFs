@@ -1,4 +1,4 @@
-# Automação de PDFs <img width=35px src="assets/img/portugues.png">
+# Automação de PDFs
 
 ## Descrição:
 
